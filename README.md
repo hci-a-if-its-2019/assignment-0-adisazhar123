@@ -51,13 +51,13 @@ The first time I open the site, I was greeted by a **white dull** page, with a *
 ![craiglist first page](public/craiglist_first_page.png "craiglist first page")
 *Image 1.1: Craiglist landing page*
 ****
-![craiglist cities](public/craiglist_cities.png "craiglist cities")
-*Image 1.2: List of cities*
-****
 
 2. The list of cities may look complete, but trying to find your city is **tiresome**. The text is **small**, it is **prone** to accidental click on other cities, and it's all listed on one page, which means it's a **long** scroll down.
-My suggestion is to facilitate a "**city search bar**". So it'll allow users to search through the cities **quickly** and **easily**. (Shown on *Image 1.3*)
+My suggestion is to facilitate a "**city search bar**". So it'll allow users to search through the cities **quickly** and **easily**. (Shown on *Image 1.2 and 1.3*)
 
+****
+![craiglist cities](public/craiglist_cities.png "craiglist cities")
+*Image 1.2: List of cities*
 ****
 ![craiglist scroll](public/scroll_first_page.gif "craiglist scroll")
 *Image 1.3: Scrolling through landing page*
