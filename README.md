@@ -9,9 +9,10 @@ IMK - A
 # HCI Homework 
 
 
-##Contents
+## Contents
 
 - [HCI Homework](#hci-homework)
+  - [Contents](#contents)
   - [Small introduction to HCI](#small-introduction-to-hci)
   - [Critiques of websites and appliances](#critiques-of-websites-and-appliances)
     - [1. Craiglist.com](#1-craiglistcom)
