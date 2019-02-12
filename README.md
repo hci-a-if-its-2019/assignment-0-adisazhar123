@@ -1,10 +1,12 @@
 
 Muhammad Adistya Azhar
+
 05111640000103
+
 IMK - A
 
 
-#HCI Homework 
+# HCI Homework 
 
 
 ## Small introduction to HCI
