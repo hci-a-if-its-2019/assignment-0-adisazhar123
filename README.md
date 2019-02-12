@@ -96,3 +96,11 @@ To summarise things, *Craiglist* have many aspects that needs to be improved if 
 ### 2. todo
 
 ### 3. todo
+
+
+
+## References:
+*A. D., J. F., G. D., & R. B. (2004). Human–Computer Interaction (3rd ed.).*
+*M. J. Introduction to HCI. Retrieved February 13, 2019, from https://www.cs.bham.ac.uk/~rxb/Teaching/HCI II/intro.html*
+*Craiglist. Retrieved February 13, 2019, from craiglist.org*
+*Gumtree | Free classified ads from the #1 classifieds site ...  Retrieved February 13, 2019, from https://www.gumtree.com/*
