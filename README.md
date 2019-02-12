@@ -77,7 +77,7 @@ However, the page did took some time to load because it's filled with 120 produc
 ![craiglist ads images](public/craiglist_ads_slide.gif "craiglist ads scroll images")
 *Image 1.8: View images*
 ****
-1. The most important aspect of platforms like *Craiglist* is how the advertisement/ product is served to the user. This can be in terms of the details provided, pricing, seller infos, location etc. I clicked on a "Refrigerator" ad. As you can see, there is barely any information. In my opinion, things can be improved in various ways. 
+6. The most important aspect of platforms like *Craiglist* is how the advertisement/ product is served to the user. This can be in terms of the details provided, pricing, seller infos, location etc. I clicked on a "Refrigerator" ad. As you can see, there is barely any information. In my opinion, things can be improved in various ways. 
 (1) Add a section for seller's info - phone number, email etc. There is a "reply" button, which I assume is the method to get in touch with the seller, although it gave me a negative response. I'm also unable to know the reason of the error. (*Image 1.9b*) 
 (2) Have a seperate price label, not concatenated on the title. 
 (3) Put borders on each section, so users will be able to differentiate the description, title, location etc. An example is the Gumtree ad (*Image 1.9c*)
