@@ -16,8 +16,8 @@ IMK - A
   - [Small introduction to HCI](#small-introduction-to-hci)
   - [Critiques of websites and appliances](#critiques-of-websites-and-appliances)
     - [1. Craiglist.com](#1-craiglistcom)
-    - [2. todo](#2-todo)
-    - [3. todo](#3-todo)
+    - [2. Baofeng UV82 Radio](#2-baofeng-uv82-radio)
+    - [3. Epson L350 Printer](#3-epson-l350-printer)
   - [References](#references)
 
 ## Small introduction to HCI
@@ -43,7 +43,7 @@ The reason I chose craiglist as an example is because advertisement platforms ar
 
 The first time I open the site, I was greeted by a **white dull** page, with a *Craiglist* logo on top, a world map below it, and list of cities at the bottom. A new user will be **overwhelmed** by the amount of **hard to read text** presented on the screen. I believe there are redundant sections that can be improved.
 
-**Redundant sections:**
+**Redundant sections and its solutions:**
 1. The world map doesn't really serve a purpose. In this context (advertisement platforms), a map's function is meant to provide details to the user the location of items for sale. It is used to calculate the route between your location and the seller's location. These are things that influences whether a buyer will re-decide to buy. So if you see that the seller is living at a good distance away, you may aswell find another seller closer to your place. 
  I tried clicking the map a few times to see its response. Unfortunately, it does nothing. I have concluded that the map may be used to pin point your location, so you'll be redirected to the right website according to your city/ country. (Shown on *Image 1.1*)
 
@@ -92,7 +92,7 @@ However, the page did take some **time to load** because it's **filled** with **
 ![craiglist ads images](public/craiglist_ads_slide.gif "craiglist ads scroll images")
 *Image 1.8: View images*
 ****
-6. The most important aspect of platforms like *Craiglist* is how the advertisement/ product is served to the user. This can be in terms of the details provided, pricing, seller infos, location etc. I clicked on a "Refrigerator" ad. As you can see, there is **barely** any information. In my opinion, things can be improved in various ways. 
+6. The most important aspect of platforms like *Craiglist* is how the advertisement/ product is served to the user. This can be in terms of the details provided, pricing, seller infos, location etc. I clicked on a "Refrigerator" ad. As you can see, there is **barely** any information. (*Image 1.9a*) In my opinion, things can be improved in various ways. 
 (1) Add a section for seller's info - phone number, email etc. There is a "reply" button, which I assume is the method to get in touch with the seller, although it gave me a **negative response**. I'm also unable to know the reason of the error. (*Image 1.9b*) 
 (2) Have a **seperate** price label, **not concatenated** on the title. 
 (3) Put **borders** on each **section**, so users will be able to **differentiate** the description, title, location etc. An example is the Gumtree ad (*Image 1.9c*)
@@ -110,9 +110,25 @@ However, the page did take some **time to load** because it's **filled** with **
 **Conclusion:**
 To summarise things, *Craiglist* have many aspects that needs to be improved if they want to be able to **compete** with other platforms. The way advertisements are shown, color schemes and content layout are still **inadequate**. At the end of the day, putting myself in the perspective of a future buyer has **failed** to reach its goal - which was to get in contact with the seller to ask and buy the item.
 
-### 2. todo
+### 2. Baofeng UV82 Radio
 
-### 3. todo
+**Intro:**
+
+Baofeng UV82 is a Chinese made two-way radio (walkie talkie) with a slim design to fit in the hand of its users. This radio is popular for personal and commercial use because it has an affordable price packed with interesting features.
+
+The reason I chose this device was because Chinese made products have been famous to compete in the tech industry with such an affordable price. I would like to see if the quality and experience of this device is worth of its value.
+
+This test will be comprised of: 
+(1) Setting, scanning and switching through frequencies.
+(2) Voice transmission.
+(3) Keyboard functionality.
+
+**These are my analysis:**
+On power up, a **beep tone** and *Baofeng* **logo** is shown. After that, it flashes away and we are taken to the frequency screen.
+
+
+
+### 3. Epson L350 Printer
 
 
 
@@ -121,7 +137,7 @@ To summarise things, *Craiglist* have many aspects that needs to be improved if 
 - *M. J. Introduction to HCI. Retrieved February 13, 2019, from https://www.cs.bham.ac.uk/~rxb/Teaching/HCI II/intro.html*
 - *Craiglist. Retrieved February 13, 2019, from craiglist.org*
 - *Gumtree | Free classified ads from the #1 classifieds site ...  Retrieved February 13, 2019, from https://www.gumtree.com/*
-
+- *BaoFeng Radio Inc. BaoFeng Radios. Retrieved February 13, 2019, from https://baofengtech.com/uv82*
 
 
 
