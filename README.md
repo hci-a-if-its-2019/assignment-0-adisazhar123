@@ -133,10 +133,10 @@ On power up, a **beep tone** and Welcome **logo** is shown. After that, it flash
 To change modes, we have to restart the device while pressing a **hotkey**. This is stated in the manual book. An **improved design** would be to have a **mode button** on the keypad. A **press** of the button will allow the radio to change **modes** without restarting. **Restarting** the device may cause important conversations to be **missed**.
 ****
 ![baofeng saved frequencies](public/baofeng_saved.jpg "baofeng saved frequencies")
-*Image 2.1a: LCD view of Saved Freequencies Mode.*
+*Image 2.1a: LCD view of Saved Frequencies Mode.*
 ****
 ![baofeng free frequencies](public/baofeng_free.jpg "baofeng free frequencies")
-*Image 2.1b: LCD view of Free Freequencies Mode.*
+*Image 2.1b: LCD view of Free Frequencies Mode.*
 ****
 2. To talk or transmit our voice, there is a **push-to-talk button** (PTT) on the left side. The mechanism of this button is unusual. Buttons are usually pressed for it to work. This PTT button cannot be pressed on the middle. We have to **press** it on the **upper** or **lower** edges. The reason of this design is because the radio has Dual Frequency watch feature which allows the user to set two frequencies at a time. We can see it on the display there are two frequencies. Pressing the upper button will transmit on the top frequency, and lower button will transmit on the bottom frequency. This can be annoying at times if we accidently pressed the wrong edge, because our voice will not be transmitted on the frequency we want. So miscommunication amongs radio-ers will happen. My solution would be to remove the upper-lower click, and have a normal middle click button. (*Image 2.2*)
 ****
@@ -153,8 +153,7 @@ To change modes, we have to restart the device while pressing a **hotkey**. This
 The baofeng has many unlabelled parts which causes users to be confused.
 
 **Watch Video Here:**
-todo
-<!-- **[Video Link](todo)** -->
+**[Video Link](https://youtu.be/axthqHbDRRg)**
 
 
 ### 3. Epson L350 Printer
