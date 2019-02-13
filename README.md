@@ -76,15 +76,15 @@ My suggestion is to **re-position** the search bar at the **top** with a **large
 ![gumtree search bar and categories](public/gumtree.png "gumtree search bar and categories")
 *Image 1.5: Gumtree search bar and categories*
 ****
-![craiglist ads scroll](public/craiglist_ads_scroll.gif "craiglist ads scroll")
-*Image 1.6: Scrolling through ads*
-****
 5. Clicking on the "appliances" category takes me to a page **filled** with advertisements. To be honest I'm **impressed** with the setup. There are a few things that caught my attention. 
-(1) The advertisements are laid out using a **grid structure**, where each product is **wrapped** in a card-like design. A row consists of 4 advertisements. 
+(1) The advertisements are laid out using a **grid structure**, where each product is **wrapped** in a card-like design. A row consists of 4 advertisements. (*Image 1.6*)
 (2) On mobile mode, the advertisements are **stacked** on top of each other. (*Image 1.7*) 
 (3) Can **view** images of the advertisement by clicking next/ prev icon. This ensures users will have their **time saved**, rather than opening a new page just to view its images. (*Image 1.8*)
 However, the page did take some **time to load** because it's **filled** with **120 products + pictures**. Unfortunately, there is no option to filter the amount of products shown. It would be better to **lower the amount of products** shown on each page (20, 30, ... so on), with a **quantity filter** added.
 
+****
+![craiglist ads scroll](public/craiglist_ads_scroll.gif "craiglist ads scroll")
+*Image 1.6: Scrolling through ads*
 ****
 ![craiglist ads scroll mobile](public/craiglist_ads_responsive.gif "craiglist ads scroll mobile")
 *Image 1.7: Mobile mode*
@@ -108,7 +108,7 @@ However, the page did take some **time to load** because it's **filled** with **
 ****
 
 **Conclusion:**
-To summarise things, *Craiglist* have many aspects that needs to be improved if they want to be able to **compete** with other platforms. The way advertisements are shown, color schemes and content layout are still **inadequate**. At the end of the day, putting myself in the perspective of a future buyer has **failed** to reach its goal - which was to get in contact with the seller to ask and buy the item.
+To summarise things, *Craiglist* have many aspects that need to be improved if they want to be able to **compete** with other platforms. The way advertisements are shown, color schemes and content layout are still **inadequate**. At the end of the day, putting myself in the perspective of a future buyer has **failed** to reach its goal - which was to get in contact with the seller to ask and buy the item.
 
 ### 2. Baofeng UV82 Radio
 
@@ -124,21 +124,63 @@ This test will be comprised of:
 (3) Keypad functionality.
 
 **These are my analysis:**
-On power up, a **beep tone** and *Baofeng* **logo** is shown. After that, it flashes away and we are taken to the frequency screen.
+
+On power up, a **beep tone** and Welcome **logo** is shown. After that, it flashes away and we are taken to the frequency screen.
 
 **Problems and its solutions**:
 
-1. If we want to input a specific frequency we have to **manually** type the numbers or **scroll** up-down. There are two modes; Free Frequencies and Saved Frequencies. This won't work if your **mode** is set to **Saved Frequencies** as it will only show saved frequencies. This can be confusing to new users, because on the LCD screen, there is no label to show what mode we are in. Both mode do show the same display.
+1. If we want to input a specific frequency we have to **manually** type the numbers or **scroll** up-down. There are two modes; Saved Frequencies (*Image 2.1a*) and Free Frequencies (*Image 2.1b*). This won't work if your **mode** is set to **Saved Frequencies** as it will only show saved frequencies. This can be confusing to new users, because on the LCD screen, there is no label to show what mode we are in. Both mode do show the same display.
 To change modes, we have to restart the device while pressing a **hotkey**. This is stated in the manual book. An **improved design** would be to have a **mode button** on the keypad. A **press** of the button will allow the radio to change **modes** without restarting. **Restarting** the device may cause important conversations to be **missed**.
-2. To talk or transmit our voice, there is a **push-to-talk button** (PTT) on the left side. The mechanism of this button is unusual. Buttons are usually pressed for it to work. This PTT button cannot be pressed on the middle. We have to **press** it on the **upper** or **lower** edges. The reason of this design is because the radio has Dual Frequency watch feature which allows the user to set two frequencies at a time. We can see it on the display there are two frequencies. Pressing the upper button will transmit on the top frequency, and lower button will transmit on the bottom frequency. This can be annoying at times if we accidently pressed the wrong edge, because our voice will not be transmitted on the frequency we want. So miscommunication amongs radio-ers will happen. My solution would be to remove the upper-lower click, and have a normal middle click button.
+****
+![baofeng saved frequencies](public/baofeng_saved.jpg "baofeng saved frequencies")
+*Image 2.1a: LCD view of Saved Freequencies Mode.*
+****
+![baofeng free frequencies](public/baofeng_free.jpg "baofeng free frequencies")
+*Image 2.1b: LCD view of Free Freequencies Mode.*
+****
+2. To talk or transmit our voice, there is a **push-to-talk button** (PTT) on the left side. The mechanism of this button is unusual. Buttons are usually pressed for it to work. This PTT button cannot be pressed on the middle. We have to **press** it on the **upper** or **lower** edges. The reason of this design is because the radio has Dual Frequency watch feature which allows the user to set two frequencies at a time. We can see it on the display there are two frequencies. Pressing the upper button will transmit on the top frequency, and lower button will transmit on the bottom frequency. This can be annoying at times if we accidently pressed the wrong edge, because our voice will not be transmitted on the frequency we want. So miscommunication amongs radio-ers will happen. My solution would be to remove the upper-lower click, and have a normal middle click button. (*Image 2.2*)
 ****
 ![baofeng ptt button](public/baofeng_ptt.jpg "baofeng ptt button")
-*Image 2.1: Side view of the radio shows PTT buttons. PTT-A is upper and PTT-B is lower.*
+*Image 2.2: Side view of the radio shows PTT buttons. PTT-A is upper and PTT-B is lower.*
 ****
+3. Each key on the keypad represents a number and an abbreviation. The abbreviation corresponds to a feature. However, the abbreviation is impossible to understand, and the way to activate it is clueless. My solution would be to remove the abbreviation and just have a menu screen to accomodate activating features.
+****
+![baofeng keypad](public/baofeng_keypad.jpg "baofeng keypad")
+*Image 2.3: Side view of the radio shows PTT buttons. PTT-A is upper and PTT-B is lower.*
+****
+
+**Conclusion:**
+The baofeng has many unlabelled parts which causes users to be confused.
+
+**Watch Video Here:**
+todo
+<!-- **[Video Link](todo)** -->
 
 
 ### 3. Epson L350 Printer
 
+**Intro:**
+Epson L350 is a multi functional printer with print, scan and photocopy capabilities.
+
+In this test, my friend Farras Rabbani tries to photocopy a brochure.
+
+**These are my analysis:**
+There are various buttons with unfamiliar logos. We cannot differentiate which one is for print, scan or photocopy.
+
+**Problems and its solutions:**
+1. The foreign logos on the buttons caused my friend to blatantly try each one of them, and hopes for the best result.
+I think the manafucturer should atleast add a label below the buttons - as not everyone understand logos. (*Image 3.1*)
+
+****
+![epson buttons](public/epson_btns.jpg "epson buttons")
+*Image 3.1: The buttons on the printer.*
+****
+
+**Conclusion:**
+The printer has a simple interface and design. But too simple caused confusion for Farras.
+
+**Watch Video Here:**
+**[Video Link](https://youtu.be/Hm6eT8Rezio)**
 
 
 ## References
@@ -147,6 +189,4 @@ To change modes, we have to restart the device while pressing a **hotkey**. This
 - *Craiglist. Retrieved February 13, 2019, from craiglist.org*
 - *Gumtree | Free classified ads from the #1 classifieds site ...  Retrieved February 13, 2019, from https://www.gumtree.com/*
 - *BaoFeng Radio Inc. BaoFeng Radios. Retrieved February 13, 2019, from https://baofengtech.com/uv82*
-
-
-
+- *Epson L350 All-in-One Printer. Retrieved February 14, 2019, from https://epson.com.jm/For-Home/Printers/Inkjet/Epson-L350-All-in-One-Printer/p/C11CC26201*
