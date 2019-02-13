@@ -121,11 +121,20 @@ The reason I chose this device was because Chinese made products have been famou
 This test will be comprised of: 
 (1) Setting, scanning and switching through frequencies.
 (2) Voice transmission.
-(3) Keyboard functionality.
+(3) Keypad functionality.
 
 **These are my analysis:**
 On power up, a **beep tone** and *Baofeng* **logo** is shown. After that, it flashes away and we are taken to the frequency screen.
 
+**Problems and its solutions**:
+
+1. If we want to input a specific frequency we have to **manually** type the numbers or **scroll** up-down. There are two modes; Free Frequencies and Saved Frequencies. This won't work if your **mode** is set to **Saved Frequencies** as it will only show saved frequencies. This can be confusing to new users, because on the LCD screen, there is no label to show what mode we are in. Both mode do show the same display.
+To change modes, we have to restart the device while pressing a **hotkey**. This is stated in the manual book. An **improved design** would be to have a **mode button** on the keypad. A **press** of the button will allow the radio to change **modes** without restarting. **Restarting** the device may cause important conversations to be **missed**.
+2. To talk or transmit our voice, there is a **push-to-talk button** (PTT) on the left side. The mechanism of this button is unusual. Buttons are usually pressed for it to work. This PTT button cannot be pressed on the middle. We have to **press** it on the **upper** or **lower** edges. The reason of this design is because the radio has Dual Frequency watch feature which allows the user to set two frequencies at a time. We can see it on the display there are two frequencies. Pressing the upper button will transmit on the top frequency, and lower button will transmit on the bottom frequency. This can be annoying at times if we accidently pressed the wrong edge, because our voice will not be transmitted on the frequency we want. So miscommunication amongs radio-ers will happen. My solution would be to remove the upper-lower click, and have a normal middle click button.
+****
+![baofeng ptt button](public/baofeng_ptt.jpg "baofeng ptt button")
+*Image 2.1: Side view of the radio shows PTT buttons. PTT-A is upper and PTT-B is lower.*
+****
 
 
 ### 3. Epson L350 Printer
